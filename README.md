@@ -2,7 +2,7 @@
 
 关注 Furion 微信公众号订阅最新消息
 
-![](weixin_qrcode.jpg)
+![](./weixin_qrcode.jpg)
 
 ---
 
