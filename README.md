@@ -1,4 +1,4 @@
-**网站建设中，可查看 [https://furion.baiqian.ltd/](https://furion.baiqian.ltd/)**
+**网站建设中，可查看 [http://furion.baiqian.ltd/](http://furion.baiqian.ltd/)**
 
 关注 Furion 微信公众号订阅最新消息
 
@@ -6,7 +6,7 @@
 
 ---
 
-**中** | [En](https://github.com/MonkSoul/Furion) | 允许商用，慷慨[赞助](http://furion.baiqian.ltd/docs/donate)
+**中** | [En](https://github.com/MonkSoul/Furion)
 
 # 先知
 
